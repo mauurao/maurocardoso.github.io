@@ -11,14 +11,15 @@ title:  "About me"
 
 Results-oriented, multidisciplinary data professional and enthusiast with experience developed in medium and large Information Technology companies. 
 
-- MSc in Integrated Decision Support Systems (Business Intelligence Systems) from ISCTE - Instituto Universitário de Lisboa
-- Bachelor's Degree in Electrotechnical and Computers Engineering from Politécnico de Setúbal.
+- MSc in Computer Engineering from ISCTE - University Institute of Lisbon
+- Postgraduate Degree in Integrated Decision Support Systems (Business Intelligence Systems) from ISCTE - University Institute of Lisbon
+- Bachelor’s Degree in Electrotechnical and Computer Engineering from Polytechnic Institute of Setúbal.
 
 
 &ensp;
 
 In my free time, I enjoy reading, programming, playing on my PS5 😜 🤓  <br>
-... and sleep (I badly need.. ahah).
+... and sleep (I badly need.. ).
 
 &ensp;
 
