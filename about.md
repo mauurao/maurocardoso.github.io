@@ -13,7 +13,7 @@ Results-oriented, multidisciplinary data professional and enthusiast with experi
 
 - MSc in Computer Engineering from ISCTE - University Institute of Lisbon
 - Postgraduate Degree in Integrated Decision Support Systems (Business Intelligence Systems) from ISCTE - University Institute of Lisbon
-- Bachelor’s Degree in Electrotechnical and Computer Engineering from Polytechnic Institute of Setúbal.
+- Bachelor’s Degree in Electrical and Computer Engineering from Polytechnic Institute of Setúbal.
 
 
 &ensp;
