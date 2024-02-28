@@ -12,7 +12,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Mauro Cardoso
-  tagline: Data Engineer
+  tagline: Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -32,7 +32,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: samarsault
-    linkedIn: in/maurocardoso94
+    linkedIn: in/mjccardoso
     github:  mjccardoso
     #dribbble: jekyll
     #flickr:   jekyll

@@ -9,7 +9,7 @@ title:  "About me"
 
 &ensp;
 
-Results-oriented, multidisciplinary data professional and enthusiast with experience developed in medium and large Information Technology companies. 
+Developer and data specialist with extensive experience in business intelligence, analysis and, above all, in developing data solutions that support business decisions.
 
 - MSc in Computer Engineering from ISCTE - University Institute of Lisbon
 - Postgraduate Degree in Integrated Decision Support Systems (Business Intelligence Systems) from ISCTE - University Institute of Lisbon
@@ -26,7 +26,8 @@ In my free time, I enjoy reading, programming, playing on my PS5 😜 🤓  <br>
 **Thank you!**
 
 &ensp;
-     
+
+<!--
 <p>You can download my CV here:</p>
 
 <a href="/assets/resume.pdf" download>
