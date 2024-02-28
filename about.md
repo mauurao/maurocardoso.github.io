@@ -27,12 +27,3 @@ In my free time, I enjoy reading, programming, playing on my PS5 😜 🤓  <br>
 
 &ensp;
 
-
-<> <p>You can download my CV here:</p>
-
-<> <a href="/assets/resume.pdf" download>
-<>  <img src="/assets/cv.png" alt="MauroResume" width="100" height="100">
-<> </a> 
-
-<> <h1 id="posts-label"></h1>
-
